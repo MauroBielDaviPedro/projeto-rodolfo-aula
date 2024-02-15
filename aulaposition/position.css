@@ -1,0 +1,33 @@
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw;
+
+}
+
+.div-dad {
+    height: 350px;
+    width: 350px;
+    background-color: #ff1396;
+    position: static;
+    margin-top: 100px;
+}
+
+.div-son {
+    height: 150px;
+    width: 150px;
+    background-color: #ffff00;
+    position: fixed;
+    position: relative;
+    top:20px;
+    left: 25px;
+}
+
+.tanananan {
+    background: #ff0000;
+    height: 100px;
+    width: 100px;
+   
+}
